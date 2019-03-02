@@ -35,20 +35,20 @@ client.user.setGame(``,)
 
 client.on("ready", async  => {
 setInterval(function(){
-client.channels.find('id', '548306213817810975').setName("6");
-client.channels.find('id', '548306213817810975').setName("6r");
-client.channels.find('id', '548306213817810975').setName("6rb");
-client.channels.find('id', '548306213817810975').setName("6rb'");
-client.channels.find('id', '548306213817810975').setName("6rb's");
-client.channels.find('id', '548306213817810975').setName("6rb's ");
-client.channels.find('id', '548306213817810975').setName("6rb's K");
-client.channels.find('id', '548306213817810975').setName("6rb's Ki");
-client.channels.find('id', '548306213817810975').setName("6rb's Kin");
-client.channels.find('id', '548306213817810975').setName("6rb's KingD");
-client.channels.find('id', '548306213817810975').setName("6rb's KingDo");
-client.channels.find('id', '548306213817810975').setName("6rb's KingDom");
-client.channels.find('id', '548306213817810975').setName("6rb's KingDom ");
-client.channels.find('id', '548306213817810975').setName("6rb's KingDom !");
+client.channels.find('id', '551376733694197780').setName("6");
+client.channels.find('id', '551376733694197780').setName("6r");
+client.channels.find('id', '551376733694197780').setName("6rb");
+client.channels.find('id', '551376733694197780').setName("6rb'");
+client.channels.find('id', '551376733694197780').setName("6rb's");
+client.channels.find('id', '551376733694197780').setName("6rb's ");
+client.channels.find('id', '551376733694197780').setName("6rb's K");
+client.channels.find('id', '551376733694197780').setName("6rb's Ki");
+client.channels.find('id', '551376733694197780').setName("6rb's Kin");
+client.channels.find('id', '551376733694197780').setName("6rb's KingD");
+client.channels.find('id', '551376733694197780').setName("6rb's KingDo");
+client.channels.find('id', '551376733694197780').setName("6rb's KingDom");
+client.channels.find('id', '551376733694197780').setName("6rb's KingDom ");
+client.channels.find('id', '551376733694197780').setName("6rb's KingDom !");
   }, 60000);
 });
 
